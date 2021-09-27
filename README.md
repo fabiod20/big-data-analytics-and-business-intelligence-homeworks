@@ -1,5 +1,5 @@
 # Big Data Analytics and Business Intelligence Homeworks
-This repository contains the homeworks of the **Big Data Analytics and Business Intelligence** course (AY 20/21) at *University of Naples Federico II*. 
+This repository contains the homeworks of the **Big Data Analytics and Business Intelligence** course (AY 20/21) at the *University of Naples Federico II*. 
 
 ## Homeworks
 All the homeworks have been developed in team of 2:
